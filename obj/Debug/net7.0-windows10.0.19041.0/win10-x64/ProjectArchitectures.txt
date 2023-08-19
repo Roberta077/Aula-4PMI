@@ -1,0 +1,1 @@
+D:\Projetos\TipoCalculetor\TipoCalculetor.csproj;x64
